@@ -4,9 +4,9 @@
 
 ## Projects
 
-## Bharti Assist Global CRM, Website, Smart Tag solution
+## Across Assist CRM, Website, Smart Tag solution
 
-Bharti Assist Global (BAG) is a subsidiary of Bharti Enterprises. They provide Medical, Roadside, Travel, Corporate Mobility and Warranty support to our customers worldwide.
+Across Assist provides Medical, Roadside, Travel, Corporate Mobility and Warranty support to our customers worldwide.
 BAG CRM allows their employees to manage their plans, offerings, partner accounts and customers all in one place. BAG can create new Partner accounts, which further can use the same portal to sell to their customers. BAG CRM also uses computer vision (AWS Rekognition) to verify customer uploaded images/videos. BAG Smart tag solution enable customers to retrieve their lost things like wallets etc.
 
 **Responsibilities**
@@ -23,7 +23,7 @@ BAG CRM allows their employees to manage their plans, offerings, partner account
 
 .net Framework, .net Core, EF6, jQuery, Angular 5, Azure Devops, hosted on Azure app service, AWS Rekognition
 
-## Bharti Assist Global Customer App
+## Across Assist Customer App
 
 BAG customer app enables customers to browse and purchase various plans. In addition customer can use this app to test their mobile phones in order to activate mobile protection plans, and use to raise claims.
 
@@ -37,7 +37,7 @@ BAG customer app enables customers to browse and purchase various plans. In addi
 Ionic framework
 
 
-## Bharti Assist Global Partner App
+## Across Assist Partner App
 
 BAG partner app enables BAG partners to browse and sell various plans to customers. They can get the exact plan based on customer's needs.
 
@@ -289,7 +289,7 @@ real-time to everyone working on this utility
 5. [Seagate SkyHawk](https://skyhawk.app/)
 6. [Seagate SkyHawk App Android](https://play.google.com/store/apps/details?id=in.mrright.skyhawk&amp;hl=en_IN&amp;gl=US)
 7. [Seagate SkyHawk App iOS](https://apps.apple.com/in/app/seagate-skyhawk-partner-app/id1435808768)
-8. [Bharti Assist Customer App Android](https://play.google.com/store/apps/details?id=in.kaaryaa.bhartiassist.customerApp)
-9. [Bharti Assist Customer App iOS](https://apps.apple.com/us/app/bharti-assist-global/id1534996856)
-10. [Bharti Assist Retail Partner App Android](https://play.google.com/store/apps/details?id=in.kaaryaa.bhartiassist.retailer)
-11. [Bharti Assist Retail Partner App iOS](https://apps.apple.com/us/app/bharti-assist-global-retailer/id1583558203)
+8. [Across Assist Customer App Android](https://play.google.com/store/apps/details?id=in.kaaryaa.bhartiassist.customerApp)
+9. [Across Assist Customer App iOS](https://apps.apple.com/us/app/bharti-assist-global/id1534996856)
+10. [Across Assist Retail Partner App Android](https://play.google.com/store/apps/details?id=in.kaaryaa.bhartiassist.retailer)
+11. [Across Assist Retail Partner App iOS](https://apps.apple.com/us/app/bharti-assist-global-retailer/id1583558203)
